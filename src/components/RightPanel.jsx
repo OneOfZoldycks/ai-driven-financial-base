@@ -21,12 +21,10 @@ const RightPanel = ({ incomeGoal }) => {
   const progress = (currentValue / totalValue) * 100;
   //const [spendMoney] = useState(420);
 
-  const [showPrediction, setShowPrediction] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [showNoData, setShowNoData] = useState(false);
 
   const handlePredictClick = () => {
-    setShowPrediction(false);
     setShowNoData(false);
     setIsLoading(true);
 
