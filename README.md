@@ -64,6 +64,15 @@ Navigate to `http://localhost:5173` to see the application.
 
 ```bash
 npm run build
+```
+
+### Run Tests
+
+```bash
+npm run test
+```
+
+Project tests live under the `tests/` directory.
 
 
 ## 📱 Usage
@@ -129,6 +138,11 @@ This is a beta version of Budget Buddy. While fully functional, you may experien
 - Occasional bugs or unexpected behavior
 - Features that are still being refined
 - Regular updates that may change the interface
+
+Known intentional gaps in this beta:
+- Limited error handling in some async flows
+- Placeholder views for upcoming features
+- Repeated UI implementations in a few components while patterns are being consolidated
 
 I appreciate your feedback  as I continue to improve the platform!
 
